@@ -15,4 +15,4 @@ If we are given a large array of integers and calculate the number of positive, 
 
 On most modern architecture, the answer is actually **yes**.
 
-![Screenshot](https://github.com/James-P-D/BranchPrediction/blob/master/Screenshot.png)
+![Screenshot](https://github.com/James-P-D/CDump/blob/master/src/BranchPrediction/Screenshot.png)
