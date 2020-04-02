@@ -3,7 +3,7 @@ Quick test for Branch Prediction in C
 
 ## Introduction
 
-If we are given a large array of integers and calculate the number of positive, negative and zero values in the array, does whether the array is sorted or not affect the calculation?
+If we are given a large array of integers and calculate the number of positive, negative and zero values in the array, does whether the array is sorted or not influence the time taken for the calculation?
 
 ```C
     for (int i = 0; i < SIZE; i++) {
