@@ -1,0 +1,4 @@
+*.suo
+.vs
+x64
+Debug
